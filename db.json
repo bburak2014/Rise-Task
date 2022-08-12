@@ -1,0 +1,8 @@
+{
+    "data": [
+      { "id": 1, "name": "Adaylarla ilgili teknik bir ödev hazırlamam gerekiyor", "priority": "Urgent" },
+      { "id": 2, "name": "Yapılan işlerle ilgili activity kayıtları oluşturmam gerekiyor.", "priority": "Regular" },
+      { "id": 3, "name": "Teknik taskları planlayacağım", "priority": "Trivial" }
+
+    ]
+  }
